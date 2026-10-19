@@ -1,0 +1,12 @@
+# Python cache & build
+__pycache__/
+*.pyc
+
+# Local environment & API keys
+.env
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
